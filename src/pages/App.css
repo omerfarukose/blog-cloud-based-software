@@ -1,0 +1,17 @@
+.App {
+  color: white;
+  background-color: #2c497f;
+  height: 100vh;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.page-content{
+  display: flex;
+}
+
+.right-content{
+  flex: 1;
+  overflow: scroll;
+  white-space: nowrap;
+}

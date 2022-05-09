@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.right-content-container{
+    margin-left: 300px;
+    padding-top: 150px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.content-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.content-text{
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+/* introductory + */
+.introductory-container{
+    
+}
+
+.introductory-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.introductory-text{
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+/* introductory - */
+
+.type-card{
+    margin-bottom: 50px;
+    height: 150px;
+    display: flex;
+    color: #eceff1;
+    align-items: center;
+}
+
+
+.card-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
