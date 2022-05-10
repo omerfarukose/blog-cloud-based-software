@@ -1,3 +1,3 @@
-Cloud Based Software Blog With React
+React - Cloud Based Software Blog 
 
-Heroku : https://cloud-based-software.herokuapp.com
+Heroku link ->  https://cloud-based-software.herokuapp.com
